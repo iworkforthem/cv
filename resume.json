@@ -1,0 +1,125 @@
+{
+  "selectedTemplate": 6,
+  "headings": {
+    "work": "Experiences",
+    "skills": "",
+    "education": "Education",
+    "projects": "Github"
+  },
+  "basics": {
+    "name": "Ng Wai Mun",
+    "email": "iworkforthem@gmail.com",
+    "phone": "+65 8818 5000"
+  },
+  "education": [
+    {
+      "location": "Great Britain",
+      "startDate": "",
+      "endDate": "2000",
+      "gpa": "",
+      "institution": "The University of Nottingham",
+      "studyType": "Second Class (Upper) Honours in Computing & Information Systems"
+    }
+  ],
+  "work": [
+    {
+      "position": "Consultant",
+      "website": "",
+      "startDate": "2018",
+      "highlights": [
+        "Design, build and deployment of conversational UI initiatives within the client's portfolio. Architect, design, and support the build of reusable components such as APIs, frameworks, and cloud services to accelerate the adption of conversational UI solutions. Build prototypes and PoCs to showcase value of AI and digital assistant to business stakeholders.",
+        "Technologies: Bot Framework, BotKit, LUIS, LUDown, QnAMaker, Amazon Lex, Amazon Alexa."
+      ],
+      "company": "Zenika"
+    },
+    {
+      "highlights": [
+        "Oversee the team of six, function as the technical & delivery lead in cloud infrastructure and cloud services on AWS. Code the REST API and backend adaptive assessment stack utilizing instructional design and consulting skills to develop a progressive and forward-thinking e-Learning, and micro learning experiences. ",
+        "Technologies: Amazon EC2, S3, Route 53, Node.js, Unity3D, MongoDb, SQL Server, Git, TeamCity."
+      ],
+      "position": "Solution Architect",
+      "company": "Marshall Cavendish Education",
+      "endDate": "2018",
+      "startDate": "2015"
+    },
+    {
+      "highlights": [
+        "Accepted into UNFRAMED Accelerator program. In charge of the development of the backend routing engine, worked with early adopters to identify key customer requirements. Iterate, measure & pivot product features, track deliverables & schedule against the roadmap, and escalate risks and potential issues.",
+        "Technologies: GPS devices, Samsung SmartThings, Google Maps API, Node.js, Vue, Git, Semaphore CI."
+      ],
+      "company": "agingcare.io",
+      "startDate": "2016",
+      "endDate": "2017",
+      "position": "Co-founder"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "PRINCE2 Practitioner",
+        "Certified Scum Master (CSM)",
+        "Business Continuity Certified Planner (BCCP)",
+        "NICF- Certified Enterprise Architecture Practitioner",
+        "ITIL v3 Foundation"
+      ],
+      "name": "Certifications"
+    },
+    {
+      "keywords": [
+        "Java",
+        "Javascript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "React"
+      ],
+      "name": "Programming Languages"
+    },
+    {
+      "keywords": [
+        "English",
+        "Chinese",
+        "Cantonese"
+      ],
+      "name": "Languages"
+    },
+    {
+      "keywords": [
+        "Singaporean"
+      ],
+      "name": "Citizenship"
+    }
+  ],
+  "projects": [
+    {
+      "url": "github.com/iworkforthem/cosmic",
+      "keywords": [
+        "React",
+        "React Native",
+        "Typescript"
+      ],
+      "name": "Spacemesh",
+      "description": "Spacemesh is a fair blockmesh operating system designed to run general-purpose smart contracts at web-scale. It is powered by a novel consensus protocol that is secure, proof of work free and highly incentive-compatible."
+    },
+    {
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "date": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "awards",
+    "projects",
+    "work",
+    "education",
+    "skills"
+  ]
+}
